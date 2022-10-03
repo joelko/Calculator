@@ -42,7 +42,7 @@ bool Operators::exists(char *c) {
     return false;
 }
 
-void Operators::SetValues(double a, double b) {
+void Operators::setValues(double a, double b) {
     _a = a;
     _b = b;
 }

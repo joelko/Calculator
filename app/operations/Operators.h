@@ -11,7 +11,7 @@ class Operators {
     bool exists(char c);
     bool exists(char *c);
     double result(char c);
-    void SetValues(double a, double b);
+    void setValues(double a, double b);
 
     Operators();
     ~Operators();
